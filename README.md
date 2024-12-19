@@ -65,6 +65,9 @@ Sum of Votes
 🛠️ Technologies Used
 
 Visualization Tool: [Specify the tool used, e.g., Power BI or Tableau]
+
+SCREENSHOT
+
 ![Screenshot 2024-12-19 132119](https://github.com/user-attachments/assets/0b5a8c98-2407-4c05-b02e-42712ddae8c2)
 
 
@@ -74,3 +77,23 @@ Visualization Tool: [Specify the tool used, e.g., Power BI or Tableau]
 Feel free to fork this repository and make your contributions. If you have additional data sources or features you'd like to add, create a pull request or open an issue.
 Author: [BHAVNA]📧 Contact: [bhavnanahar245@gmail.com]🗓️ Last Updated: December 19, 2024
 
+
+
+🎯 Key Metrics
+🎞️ Total Movies Analyzed: 4,878, covering various genres for a holistic industry overview.
+⭐ Average Rating: 6.70, indicating a moderately favorable reception.
+⏳ Maximum Runtime: 252 minutes, likely epic or detailed narratives.
+🗳️ Maximum Votes Received: 2 million, highlighting audience engagement with popular titles.
+📊 Total Ratings: 31.77k, summarizing cumulative audience feedback.
+📈 Ratings Insights
+Top-rated movies (e.g., "Avatar: The Last Airbender") contribute significantly (18.45%) to overall ratings.
+About 5% of movies received lower ratings, reflecting potential niche appeal or quality concerns.
+⏱️ Runtime Observations
+"Dexter" has the highest cumulative runtime, suggesting extended series or episodes.
+Movies like "Avatar: The Last Airbender" and "Bleach: Burīchi" also stand out for their longer runtime.
+🗳️ Votes Distribution
+"The Lord of the Rings" series captures the most audience votes (15.2%), underscoring its fan-favorite status.
+Blockbusters like "Jurassic Park" and "Kill Bill" exhibit strong voter engagement, emphasizing their popularity.
+🔍 General Trends
+Epic and serialized content tends to dominate runtime metrics.
+Highly-rated and widely-voted movies often belong to well-known franchises or culturally significant titles.
